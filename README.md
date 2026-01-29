@@ -51,9 +51,10 @@
 
 
 <br><br><br><br><br><br>
-credits: https://github.com/DenverCoder1/readme-typing-svg
+credits: [https://github.com/DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg/blob/main/README.md)
 
 
 
 <!-- Imagem da base -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e57c2&height=120&section=footer"/>
+
