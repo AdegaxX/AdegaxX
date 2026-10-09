@@ -1,3 +1,5 @@
+<meta name="facebook-domain-verification" content="jhvjre21b5irqndidlito1opduo39z" />
+
 
 <!-- Imagem do topo -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e57c2&height=130&section=header"/>  
