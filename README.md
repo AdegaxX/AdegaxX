@@ -9,9 +9,9 @@
 </p>
 
 
-<div align="center">  
-  <img width="auto" height="200px" src="https://github-readme-stats.vercel.app/api?username=AdegaxX&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Adegas github stats"/> 
-  <img width="auto" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdegaxX&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdegaxX&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&rank_icon=github" alt="GitHub Stats - Leandro Adegas"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdegaxX&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most Used Languages"/>
 </div>
 
 
