@@ -9,10 +9,12 @@
 </p>
 
 
+<!--  Parte das estatísticas, editar depois
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdegaxX&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&rank_icon=github" alt="GitHub Stats - Leandro Adegas"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdegaxX&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Most Used Languages"/>
 </div>
+-->
 
 
 ### Skills:
