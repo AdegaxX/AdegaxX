@@ -18,36 +18,60 @@
 
 
 ### Skills:
+
 ![Web Scraping](https://img.shields.io/badge/-web%20scraping-0D1117?style=for-the-badge&logo=selenium&labelColor=0D1117)&nbsp;
+
 ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-0D1117?style=for-the-badge&logo=plotly&labelColor=0D1117)&nbsp;
+
 ![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-0D1117?style=for-the-badge&logo=numpy&labelColor=0D1117)&nbsp;
+
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0D1117?style=for-the-badge&logo=scikitlearn&labelColor=0D1117)&nbsp;
+
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-0D1117?style=for-the-badge&logo=tensorflow&labelColor=0D1117)&nbsp;
+
 ![Data Mining](https://img.shields.io/badge/-Data%20Mining-0D1117?style=for-the-badge&logo=apache&labelColor=0D1117)&nbsp;
+
 ![LLM](https://img.shields.io/badge/-LLM-0D1117?style=for-the-badge&logo=LangChain&labelColor=0D1117)&nbsp;
+
 ![LSTM](https://img.shields.io/badge/-LSTM-0D1117?style=for-the-badge&logo=pytorch&labelColor=0D1117)&nbsp;
+
 ![Convolutional Neural Network](https://img.shields.io/badge/-CNN-0D1117?style=for-the-badge&logo=opencv&labelColor=0D1117)&nbsp;
+
 ![Web Developer](https://img.shields.io/badge/-Web%20Developer-0D1117?style=for-the-badge&logo=&labelColor=0D1117)&nbsp;
+
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0D1117?style=for-the-badge&logo=keras&labelColor=0D1117)&nbsp;
+
 ![Web Development](https://img.shields.io/badge/-Web%20Development-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office-logo&labelColor=0D1117)&nbsp;
 
 
 ### Tools:
+
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+
 ![R](https://img.shields.io/badge/-R_Language-0D1117?style=for-the-badge&logo=r&labelColor=0D1117)&nbsp;
+
 ![Overleaf](https://img.shields.io/badge/-Overleaf-0D1117?style=for-the-badge&logo=overleaf&labelColor=0D1117)&nbsp;
+
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
 
 
 ### Studying in this moment:
+
 ![Node.js](https://img.shields.io/badge/-node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+
 ![React.js](https://img.shields.io/badge/-react.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
 
